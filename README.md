@@ -5,4 +5,4 @@ This is a training repository to learn git/GitHub
 -apple
 -banana'
 -kiwi'
-links:
+links: http://nceas.ucsb.edu
